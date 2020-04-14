@@ -1,0 +1,9 @@
+[submodule "jetune.docker_swarm_master"]
+	path = roles/jetune.docker_swarm_master
+	url = git@github.com:kube-cloud/ansible-role-docker-swarm-master.git
+[submodule "jetune.docker_swarm_slave"]
+	path = roles/jetune.docker_swarm_slave
+	url = git@github.com:kube-cloud/ansible-role-docker-swarm-slave.git
+[submodule "jetune.docker"]
+	path = roles/jetune.docker
+	url = git@github.com:kube-cloud/ansible-role-docker.git
